@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edielrangel&show_icons=true&theme=dark)](https://github.com/edielrangel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edielrangel&show_icons=true&theme=dark&layout=compact)](https://github.com/edielrangel)
 
-![image]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white}) 
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
