@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Formado em Sistemas de Informação e Mestre em Tecnologia pela Universidade Federal dos Vales do Jequitinhonha e Mucuri. Trabalho com desenvolvimento web desde 2010. Já no TCC previa que a tendência dos softwares se voltava para a nuvem. Chequei na internet quando tudo isso aqui era mato.
+Gosto de arte, principalmente a Naïf. Acredito na filosofia materialista de história, estudando-a profundamente. 
+Programação não é para qualquer um. Um sujeito pode até saber programar, mas se não tiver criatividade será apenas mais um entre outros.
+A nós, programadores, está o domínio desse mundo.
+Programadores de todo mundo, uni-vos! 
+
+
 <!--
 **edielrangel/edielrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
