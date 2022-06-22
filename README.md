@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/React%20Native-61dbfb?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
